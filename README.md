@@ -19,8 +19,6 @@
 ---
 
 ### 📂 Featured Projects
-- **[Data Analysis Project](https://github.com/lakhanpal-learns/data-analysis-project)**  
-  Exploratory analysis using Pandas and Matplotlib on real-world data
 
 - **[AI-based Firewall](https://github.com/lakhanpal-learns/AI-based-Firewall)**  
   Smart firewall project built with EJS and backend logic
